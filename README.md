@@ -9,4 +9,4 @@ I'm a 3rd-year Computer Science student at Ateneo de Naga University and the coo
 * **Cybersecurity & Networking:** Wireshark, PCAP Analysis, CTF Challenges
 * **Leadership & Strategy:** Hackathon Coordination, Technical Risk Assessment, Team Management
 
-You can learn more about me on [LinkedIn](https://www.linkedin.com/in/danielle-cedric-t-oliveros-aa82443a8/).
+You can learn more about me on [LinkedIn](https://www.linkedin.com/in/cedricoliveros).
